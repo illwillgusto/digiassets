@@ -129,6 +129,10 @@ a.nav-item:hover {
     margin-bottom: 15px;
 }
 
+.contactme {
+    color: white;
+}
+
 footer {
     background-color: transparent;
     display: flex;
